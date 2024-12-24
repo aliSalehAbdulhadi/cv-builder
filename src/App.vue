@@ -168,7 +168,7 @@ const steps = [
       </template>
 
       <template #step-5>
-        <div>
+        <div class="space-y-3">
           <InputTags name="languages" title="Languages" />
           <InputTags name="achievements" title="Achievements" />
           <InputTags name="certificates" title="Certificates" />
