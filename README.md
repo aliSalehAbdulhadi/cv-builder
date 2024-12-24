@@ -1,35 +1,17 @@
-# cv-builder
+# CV Maker Application - Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+This project was an exciting challenge. It was my first time working with Vue, and while the experience was enjoyable, it came with a few hurdles. Given the short timeline and the complexity of the task, I had to adapt quickly to Vue's syntax and concepts.
 
-## Recommended IDE Setup
+## Key Learning Curves
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+The biggest learning curve for me was **managing state** in Vue, as I’m more accustomed to React's way of handling it. Additionally, crafting the **PDF export** turned out to be more challenging than I anticipated. I’ve worked with similar exports before, such as **Word** and **CSV** formats, but exporting to **PDF** required a lot of tweaking. It wasn’t without its frustrations, and it reminded me of how annoying file export tasks can be!
 
-## Customize configuration
+## Code Reusability and Optimization
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+The code isn’t as organized or optimized as I would have liked. I tried to make components as reusable as possible, and while I succeeded in some areas, there were definitely places where improvements could have been made.
 
-## Project Setup
+## Final Thoughts
 
-```sh
-npm install
-```
+Overall, this was an informative and enjoyable project. I’ve always wanted to work with Vue, but I’ve been so comfortable with React that I never took the time to dive into it. I’m grateful for the opportunity to finally tackle Vue, and I’d appreciate any feedback on my code, whether it’s specific to Vue or general best practices.
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Thank you again for the opportunity!
