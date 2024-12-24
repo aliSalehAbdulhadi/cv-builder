@@ -106,7 +106,7 @@ const onSubmit = handleSubmit((finalValues) => {
               type="primary"
               html-type="submit"
             >
-              Submit
+              Download
             </Button>
           </div>
         </div>
