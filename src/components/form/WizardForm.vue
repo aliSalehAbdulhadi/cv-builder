@@ -59,6 +59,7 @@ const prevStep = () => {
 const onSubmit = handleSubmit((finalValues) => {
   exportToPDF({ ...stepData.value, ...finalValues })
   resetForm()
+  location.reload()
 })
 </script>
 
